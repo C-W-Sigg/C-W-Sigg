@@ -2,11 +2,13 @@
 
 - 👨‍🎓     I’m currently learning github, lua, atom, etc...
 
-- 🧔  👨‍🏫  👦👧  I’m interested in learning to help teach my elementary age kids to make roblox games. 
+- 🧔  👨‍🏫  👦👧  I’m interested in learning 
+- .......to contribute to the Star Wars Legion Mod in TTS
+- .......to help teach my elementary age kids to make roblox games. 
 
 - ⌚ 👂 Once I watch and learn enough my first goal is to contribute to the Tabletop Simulator Mod for Star Wars Legion ⭐ ☄
 
-- Learning for my kids, my Hobby,  and possible work applications. Dream Big and take baby steps!
+- Learning for my kids, my Hobby, and possible work applications. Dream Big and take baby steps!
 
 - 📫 How to reach me ...LordDorn on Star Wars Legion TTS Discord
 
